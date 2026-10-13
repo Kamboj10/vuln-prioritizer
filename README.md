@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.14.7-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Tests](https://img.shields.io/badge/tests-passing-green.svg)
+
 # Vuln Prioritizer
 
 A working local security tool that:
