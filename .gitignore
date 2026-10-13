@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated output (contains scan results of your machines)
+reports/*.html
+data/results.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
